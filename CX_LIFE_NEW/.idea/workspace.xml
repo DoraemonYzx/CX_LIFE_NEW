@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ca0cc4-0aaf-4df7-9da1-9e07daa0d2e6" name="Default Changelist" comment="" />
+    <list default="true" id="63ca0cc4-0aaf-4df7-9da1-9e07daa0d2e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/commodity_details_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/commodity_details_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/confirm_order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/confirm_order_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/my_order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my_order_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/my_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/my_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/navigation_bar_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/navigation_bar_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order_details_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/order_details_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pay_complete_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pay_complete_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shopping_cart_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/shopping_cart_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/wx_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/wx_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_04.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Y27oU8ZiWCiTMzR4gxgmeY7jsB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
@@ -41,5 +64,11 @@
       <updated>1582129009426</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582129785640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582129785640" />
   </component>
 </project>

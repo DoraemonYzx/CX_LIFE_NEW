@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+商品详情page
+"""
+
 
 class CommodityDetailsPage(BaseAction):
     loc_buy = ("xpath", "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/"

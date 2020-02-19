@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+支付完成page
+"""
+
 
 class PayCompletePage(BaseAction):
     loc_pay_success = ("xpath", "//*[@text='支付成功']")

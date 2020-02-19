@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+个人中心page
+"""
+
 
 class MyPage(BaseAction):
     loc_login = ("xpath", r"//*[@text='登录/注册']")

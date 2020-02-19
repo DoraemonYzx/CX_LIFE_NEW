@@ -7,6 +7,9 @@
 """
 from common.base_action import BaseAction
 
+"""
+微信page
+"""
 
 class WxPage(BaseAction):
     loc_cxlife = ("xpath", "//android.widget.FrameLayout[@content-desc='当前所在页面,与的聊天']/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/"

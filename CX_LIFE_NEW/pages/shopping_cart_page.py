@@ -8,6 +8,9 @@
 
 from common.base_action import BaseAction
 
+"""
+购物车page
+"""
 
 class ShoppingCartPage(BaseAction):
     loc_delete_one = ("xpath", "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/"

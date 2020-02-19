@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+订单详情page
+"""
+
 
 class OrderDetailsPage(BaseAction):
     loc_cx_life = ("xpath", r"//*[@text='CX-LIFE']")

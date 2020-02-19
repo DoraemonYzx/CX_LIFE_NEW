@@ -8,6 +8,9 @@
 from common.base_action import BaseAction
 from selenium import webdriver
 
+"""
+我的订单page
+"""
 
 class MyOrderPage(BaseAction):
     loc_pending_payment = ("xpath", r"//*[@text='待付款']")

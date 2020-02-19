@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+确认订单page
+"""
+
 
 class ConfirmOrderPage(BaseAction):
     loc_address = ("xpath", "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/"

@@ -7,6 +7,10 @@
 """
 from common.base_action import BaseAction
 
+"""
+导航栏page
+"""
+
 
 class NavigationBarPage(BaseAction):
     loc_home = ("xpath", r"//*[@resource-id='com.tencent.mm:id/w']/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]")

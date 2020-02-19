@@ -7,7 +7,9 @@
 """
 from common.base_action import BaseAction
 
-
+"""
+首页page
+"""
 class HomePage(BaseAction):
     loc_commodity_one = ("xpath", r"//*[@text='wx0f98b556b1c08f70:pages/index/index.html:VISIBLE']/android.widget.Image[6]")
     loc_commodity_two = ("xpath", r"//*[@text='wx0f98b556b1c08f70:pages/index/index.html:VISIBLE']/android.widget.Image[7]")
